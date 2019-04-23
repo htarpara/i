@@ -1,0 +1,72 @@
+body {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 20%;
+    margin-left: 20%;
+    background-color:#FFFFFF
+}
+
+a {
+    text-decoration:none
+}
+
+#photo {
+    display: table-cell;
+    padding-right: 70px;
+}
+
+#sigtext{
+    display: table-cell;
+    vertical-align: bottom;
+}
+
+.container {
+    display: table;
+    clear: overflow:hidden;
+}
+
+hr {
+    width: 100%;
+    background-color: #A9A9A9;
+    border: 0px;
+    height: 1px;
+}
+
+.name {
+   font-family: verdana, tahoma, sans-serif;
+   font-size: 18pt;
+   color: #000000
+}
+
+
+span.shade{
+    font-family: verdana, tahoma, sans-serif;
+    font-size: 7pt;
+    color: #CCCCCC
+}
+
+p.text {
+    font-family: verdana, tahoma, sans-serif;
+    font-size: 10pt;
+    color: #000000
+}
+
+div {
+    font-family: verdana, tahoma, sans-serif;
+    font-size: 10pt;
+    align: center;
+    color: #000000
+}
+
+h2 {
+    font-family: verdana, tahoma, sans-serif;
+    font-size: 13pt;
+    color: #000000
+}
+
+li {
+    font-family: verdana, tahoma, sans-serif;
+    font-size: 10pt;
+    color: #000000;
+    margin-bottom: 0.5em
+}
